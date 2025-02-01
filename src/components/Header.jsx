@@ -8,7 +8,7 @@ function Header() {
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-1">
           <Link to={"/"}>
-            <img src={testline} alt="Logo" className="h-10 w-28" />
+            <img src={testline} alt="Logo" className="h-7 w-28" />
           </Link>
         </div>
       </div>
