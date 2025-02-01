@@ -95,6 +95,11 @@ npm start
 ![result](https://github.com/user-attachments/assets/f26abbc1-0add-4bee-81e6-b2d0f9084387)
 
 ### Watch the demo video:
+https://github.com/user-attachments/assets/f4c6497e-5a56-4602-bb08-fb1460a9924a
+
+https://github.com/user-attachments/assets/67a1541b-710d-4c5b-bd05-39a7d53617b1
+
+
 
 ### Deployment
 
