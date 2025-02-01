@@ -6,7 +6,7 @@ function Footer() {
   const [like, setLike] = useState(false);
 
   return (
-    <footer className="border-t fixed w-full  bottom-0 z-10">
+    <footer className="border-t fixed w-full  bottom-0 z-0">
       <p className="text-center text-gray-500 p-5 fill-red-500 bg-slate-300">
         Copyright ©2025 All rights reserved | This site is made with{" "}
         <span onClick={() => setLike(!like)} className="cursor-pointer">
