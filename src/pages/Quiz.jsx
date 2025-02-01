@@ -123,9 +123,8 @@ function Quiz() {
         {loading && <LoadingIcon />}
         {showResultPopup && <ResultPopup data={resultData} />}
 
-        {/* {console.log("currentQuestion", currentQuestion)} */}
         <div className="flex h-screen justify-center items-center">
-          <div className="p-5 border rounded">
+          <div className="p-5 w-full sm:w-1/2 border rounded">
             {allQuestions.length > 0 ? (
               <div>
                 {/* Number of Quiz and Time Showing here... */}
