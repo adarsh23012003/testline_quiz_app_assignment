@@ -88,6 +88,11 @@ npm start
 </ol>
 
 ### Screenshots & Demo
+![intro_screen](https://github.com/user-attachments/assets/8e30b96a-6c33-4694-827c-39626b59ef7d)
+![loding_screen](https://github.com/user-attachments/assets/bdc89843-fe87-4fcd-90af-a5e856a689e1)
+![questions_part1](https://github.com/user-attachments/assets/4cbe5376-fcad-4b64-a0ab-d481091cbf7b)
+![questions_par2](https://github.com/user-attachments/assets/aa952957-cbf0-4f09-93fb-931d90440fbc)
+![result](https://github.com/user-attachments/assets/f26abbc1-0add-4bee-81e6-b2d0f9084387)
 
 ### Watch the demo video:
 
